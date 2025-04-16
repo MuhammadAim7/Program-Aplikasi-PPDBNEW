@@ -1,0 +1,2 @@
+[18-May-2024 21:05:40 Asia/Jakarta] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: Interlace handling should be turned on when using png_read_image in /home/k4291103/public_html/demoppdb/vendor/dompdf/dompdf/lib/Cpdf.php on line 4794
+[18-May-2024 21:49:39 Asia/Jakarta] PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: Interlace handling should be turned on when using png_read_image in /home/k4291103/public_html/demoppdb/vendor/dompdf/dompdf/lib/Cpdf.php on line 4794

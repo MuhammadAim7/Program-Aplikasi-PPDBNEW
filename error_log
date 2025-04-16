@@ -1,0 +1,9 @@
+[13-May-2024 13:34:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/k4291103/public_html/demoppdb/config/function.php on line 2
+[13-May-2024 13:34:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/k4291103/public_html/demoppdb/beranda.php on line 339
+[13-May-2024 13:34:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/k4291103/public_html/demoppdb/beranda.php on line 597
+[13-May-2024 13:34:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/k4291103/public_html/demoppdb/config/function.php on line 2
+[13-May-2024 13:34:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/k4291103/public_html/demoppdb/beranda.php on line 339
+[13-May-2024 13:34:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/k4291103/public_html/demoppdb/beranda.php on line 597
+[13-May-2024 13:34:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/k4291103/public_html/demoppdb/config/function.php on line 2
+[13-May-2024 13:34:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/k4291103/public_html/demoppdb/beranda.php on line 339
+[13-May-2024 13:34:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/k4291103/public_html/demoppdb/beranda.php on line 597
