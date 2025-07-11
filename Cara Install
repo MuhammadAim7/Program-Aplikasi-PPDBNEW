@@ -1,0 +1,51 @@
+
+
+## 📘 Program Aplikasi PPDBNEW
+
+Aplikasi ini merupakan sistem **PPDB (Penerimaan Peserta Didik Baru)** berbasis web yang dibangun menggunakan **CodeIgniter 3**, dirancang untuk memudahkan proses pendaftaran siswa secara online di tingkat sekolah.
+
+---
+
+## 🚀 Cara Instalasi
+
+1. **Clone repositori ini:**
+
+   ```bash
+   git clone https://github.com/MuhammadAim7/Program-Aplikasi-PPDBNEW.git
+   ```
+
+2. **Pindahkan folder ke direktori server lokal Anda**
+   Contoh: `htdocs` (XAMPP) atau `www` (WAMP/Laragon).
+
+3. **Buat database baru di phpMyAdmin**, misalnya dengan nama: `ppdb`.
+
+4. **Import file database:**
+
+   * File SQL belum tersedia di repo. Anda dapat memintanya dengan menghubungi kontak di bawah ini.
+
+5. **Sesuaikan konfigurasi koneksi database:**
+
+   * Buka file `application/config/database.php`, lalu ubah menjadi:
+
+     ```php
+     'hostname' => 'localhost',
+     'username' => 'root',
+     'password' => '',
+     'database' => 'ppdb',
+     ```
+
+6. **Akses aplikasi di browser:**
+
+   ```
+   http://localhost/Program-Aplikasi-PPDBNEW/
+   ```
+
+---
+
+## 📂 Mendapatkan File Database
+
+Untuk mendapatkan file SQL/database yang diperlukan agar aplikasi bisa berjalan dengan baik, silakan hubungi kontak berikut:
+
+👉 [Klik untuk menghubungi lewat WhatsApp](https://wa.me/6281393768674)
+
+---
